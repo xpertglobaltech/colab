@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sound-repeater-443818-q4",
+  "private_key_id": "2341405b65838ce9f22109e7306c97bf9bd08bc9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDC9CvuXlCI+eaG\nrDbfRf+bYOgzYeRVrDzd90QMUlOOrtxV/52meOvVP+tgZs26pyDfvmk+M/bHaxIp\nt8+KftcXi3sAN4JlP2/Zt2HGufWr6dtY4C6uzGoKoAiXgdeZT6wOw2gFxtla/bsG\nrvqm4emH5kL5Ow87XSshO0eVVGg+HAe5tlafLa6IIwI8MkjUSqXlcERmm8FFKMt9\nsVugwcNXa/nTM/PEomJTNagKg+u6rWBAVr+nYKHqNjPlNy/BIhWKwu0Bwfi99Z8+\nmLDwzUJ+Pbc9Q0YfSnfyGdNtWOY0j7q9Scahebnkph74Qye1UJAFeOYOaEm+DnBH\nn9gCSaiBAgMBAAECggEAIeuwNSJt6tdod+hBB+o7BkL/Q+l1fD6ivJBIY8hzR3E/\nXytBt/R0PD+J6dUZWK+5tZSA5VTPTHVhzKZx0wwsyqj3NttxscIu6PfSaGx0xXvE\nMZuYI8vna3/a3tm1tLQ7ILp5QAAQU5ewUgJiFGVcZ8v1vT28cbzNQ1P4KZBtLtkN\n0WxGqEMPR41f7AYhc7Jl0UJ09T21zJbZ6ttMgMa3XX7FuWliDGqKdi9ey9fp9U93\nzSciOcWkQ650blmUucqv94xiyhJCAyNOQlRD0mWcT27xDR+aY6hmz568roNwNAwm\n0wxyiORcoEO46miDZBBM00gj2LPbaqBu3ROBagIfEQKBgQDtMT/vUpgLWlNgGoea\nPi9pyULTUbyPy8ruUFJuaXtq4M26XsYkAmsQjgbiVw0kDhM7aYk83iLBy2M2vQ49\nwAHK49NBd7PmbDE9LfD7KkfAWwxaNiX5nbKRTOXnOH314GmBZZFFoXhxapXre4JI\naJZlrP3FWpXtAILxDZO+Rs1hRQKBgQDSaYYjqr9FO8KrPMNSV5u6d7kwhX1ar51A\nhqxINHxszGt7o8YqU9CoQTOZeCJwXDiBXXAzAAXzfNogI4MxjXnInXRMaEnsCGpC\nSKJdD0ujYqGryCB5q5R6Xgu1IWNgDXfPnrmGBXC25TudpssGNyjTOcUTcBiVe9Yi\nC/5Zl3xYDQKBgQCQONcARP9QP97cW6VCQzd/IjIw3c1Cvg6pM0u7+QVjKkfNX50o\n/hNtoH5NF9NUrf5BrN0WlpcZsPqlqPTE1UABxt+IOim4HOcfpRSXE9FHA9WR8MTM\nb3fJY7GTE0V7wLVGSaS4awMaK033PkUsk/OG5VX0ryzkS+BShAfmtZRh5QKBgQCe\n0W2hYFEs9dWTILMhZOUzkwiiOjALEkD0onJJsew0xvteAJkj+82kIkrLTSVZgBJa\neuekZyEWzydpWMS+01WX+lj9Dz60vQlPbLm42kGyWlFDczQoAj15O6FEn6X9q0zC\n1sCcC2Eve8lKzsmxsFLNVG6PpG257xYK7tiWUURWxQKBgQDiTgP7Br7+3ulre8fp\n7u4WCM1smbuFJFkZIUoCjPfeKddfKR1X5FrdTtL3+2T+g06JO0REQCynsKhRC6s9\nTlyb8W6QzcaGJnp85uJhQFFzm7tWyuugYD08wG9GWzKQQe5vd7KbXgW+cIYWHWNR\nWijeeMy6jZQEKcg8mk+8YDS66A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "finance-insu@sound-repeater-443818-q4.iam.gserviceaccount.com",
+  "client_id": "102890421113405653261",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/finance-insu%40sound-repeater-443818-q4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
